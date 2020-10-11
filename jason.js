@@ -17,7 +17,7 @@ function game() {
     break;  
   };
   
-   let greeting = prompt.question("Jason was spotted around the house! Try to escape safely! How do you want to escape? Press anything to see rooms to escape from.");
+   let greeting = prompt.question("Jason was spotted around the house! Try to escape safely! How do you want to escape? -Press any key and hit enter- to see rooms to escape from.");
 
    let room = prompt.question("\n 1. Master Bedroom. \n 2. Kitchen \n 3. Bathroom \n 4. Kid's room \n".rainbow)
 
