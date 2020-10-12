@@ -39,3 +39,5 @@ do {
 }while (userInput != 'n' || userInput != 'N');
 console.log("Thanks for playing!");
 
+
+
